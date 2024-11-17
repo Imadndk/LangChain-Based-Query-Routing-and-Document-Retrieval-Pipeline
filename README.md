@@ -127,7 +127,6 @@ To set up and run the workflow, the following Python libraries are required:
 - `langchain`: For building language model workflows.
 - `langchain_community`: For accessing community-contributed loaders and utilities.
 - `cassio`: To integrate with Cassandra for vector storage.
-- `chromadb`: For vector database operations.
 - `langgraph`: To define and execute state graph workflows.
 
 ### Additional Libraries
