@@ -15,7 +15,7 @@ This project implements a query routing and document retrieval pipeline using La
 Install the required dependencies:
 
 ```bash
-pip install langchain langchain_community cassio chromadb langgraph langchain_huggingface arxiv wikipedia
+pip install langchain langchain_community cassio langgraph langchain_huggingface arxiv wikipedia
 ```
 ---
 ## Components
