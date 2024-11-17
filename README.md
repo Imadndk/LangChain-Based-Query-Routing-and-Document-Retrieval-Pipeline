@@ -17,7 +17,8 @@ Install the required dependencies:
 ```bash
 pip install langchain langchain_community cassio chromadb langgraph langchain_huggingface arxiv wikipedia
 ```
----## Components
+---
+## Components
 
 ### 1. Query Routing
 - Determines whether the user query should be routed to a vectorstore or Wikipedia based on context.
