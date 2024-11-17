@@ -137,6 +137,6 @@ To set up and run the workflow, the following Python libraries are required:
 ### Installation
 Install all dependencies using pip:
 ```bash
-pip install langchain langchain_community cassio chromadb langgraph langchain_huggingface arxiv wikipedia
+pip install langchain langchain_community cassio langgraph langchain_huggingface arxiv wikipedia
 ```
 
